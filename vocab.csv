@@ -1062,9 +1062,6 @@
 田舎,いなか,country/countryside,Noun,JLPT3
 お嬢さん,おじょうさん,young lady/someone's daughter,Noun,JLPT3
 漬ける,つける,pickle/marinade,Verb,JLPT3
-
-<---- got up to here - remove quotes, add / and add kana readings hehe -----> 
-
 汽車,きしゃ,train,Noun,JLPT3
 四,よん,four,Noun,JLPT2
 七,なな,seven,Noun,JLPT2
@@ -1076,626 +1073,629 @@
 金,かね,money,Noun,JLPT2
 曜日,ようび,day of the week,Noun,JLPT2
 週,しゅう,week,Noun,JLPT2
-少ない,すくない,"few, little",Adjective,JLPT2
-多分,たぶん,"probably, perhaps",Adverb,JLPT2
+少ない,すくない,few/little,Adjective,JLPT2
+多分,たぶん,probably/perhaps,Adverb,JLPT2
 上る,のぼる,go up,Verb,JLPT2
-方,ほう,"direction, side",Noun,JLPT2
+方,ほう,direction/side,Noun,JLPT2
 空く,すく,be empty,Verb,JLPT2
 私,わたし,I,Noun,JLPT2
-家,うち,"house, home",Noun,JLPT2
+家,うち,house/home,Noun,JLPT2
 閉じる,とじる,close,Verb,JLPT2
-かなり,,"fairly, rather",Adverb,JLPT2
+かなり,かなり,fairly/rather,Adverb,JLPT2
 他,ほか,other,Noun,JLPT2
-止める,やめる,"stop, give up, abolish",Verb,JLPT2
-未だ,まだ,"yet, more",Adverb,JLPT2
-有る,ある,"exist, possess",Verb,JLPT2
+止める,やめる,stop/give up/abolish,Verb,JLPT2
+未だ,まだ,yet/more,Adverb,JLPT2
+有る,ある,exist/possess,Verb,JLPT2
 無い,ない,to not be,Adjective,JLPT2
 数,かず,number,Noun,JLPT2
-しゃべる,,"chat, talk",Verb,JLPT2
-ゲーム,,game,Noun,JLPT2
+しゃべる,しゃべる,chat/talk,Verb,JLPT2
+ゲーム,ゲーム,game,Noun,JLPT2
 親,おや,parent,Noun,JLPT2
-別,べつ,"another, different",Adjectival Noun,JLPT2
-酒,さけ,"alcoholic drink, Japanese rice wine",Noun,JLPT2
-感じる,かんじる,"feel, sense",Verb,JLPT2
-神,かみ,"god, spirit",Noun,JLPT2
+別,べつ,another/different,Adjectival Noun,JLPT2
+酒,さけ,alcoholic drink/Japanese rice wine,Noun,JLPT2
+感じる,かんじる,feel/sense,Verb,JLPT2
+神,かみ,god/spirit,Noun,JLPT2
 起こる,おこる,happen,Verb,JLPT2
-載せる,のせる,"place, put on",Verb,JLPT2
+載せる,のせる,place/put on,Verb,JLPT2
 夫,おっと,husband,Noun,JLPT2
-誰,だれ,"who, whom",Noun,JLPT2
-愛する,あいする,"love, care for",Verb,JLPT2
+誰,だれ,who/whom,Noun,JLPT2
+愛する,あいする,love/care for,Verb,JLPT2
 胸,むね,chest,Noun,JLPT2
-腰,こし,"hip, lower back",Noun,JLPT2
-背,せ,"height, stature",Noun,JLPT2
+腰,こし,hip/lower back,Noun,JLPT2
+背,せ,height/stature,Noun,JLPT2
 浴びる,あびる,take (a shower),Verb,JLPT2
 渇く,かわく,be thirsty,Verb,JLPT2
 髪の毛,かみのけ,hair,Noun,JLPT2
 肩,かた,shoulder,Noun,JLPT2
-掛ける,かける,"hang, put on",Verb,JLPT2
+掛ける,かける,hang/put on,Verb,JLPT2
 駄目,だめ,no good,Adjectival Noun,JLPT2
 風邪,かぜ,cold (illness),Noun,JLPT2
-嬉しい,うれしい,"happy, glad",Adjective,JLPT2
-より,,"more, further",Adverb,JLPT2
+嬉しい,うれしい,happy/glad,Adjective,JLPT2
+より,より,more/further,Adverb,JLPT2
 九,く,nine,Noun,JLPT2
-金,きん,"gold, sum of money, Friday",Noun,JLPT2
-分,ぶん,"amount, part, share",Noun,JLPT2
-分ける,わける,"divide into parts, sort, share",Verb,JLPT2
-分かれる,わかれる,"be divided, disperse, branch off",Verb,JLPT2
+金,きん,gold/sum of money/Friday,Noun,JLPT2
+分,ぶん,amount/part/share,Noun,JLPT2
+分ける,わける,divide into parts/sort/share,Verb,JLPT2
+分かれる,わかれる,be divided/disperse/branch off,Verb,JLPT2
 コンピューター,コンピューター,computer,Noun,JLPT2
-何か,なにか,"something, some",Noun,JLPT2
+何か,なにか,something/some,Noun,JLPT2
 先ず,まず,first,Adverb,JLPT2
 行き,いき,going,Noun,JLPT2
 行き,ゆき,going,Noun,JLPT2
-大分,だいぶ,"very, greatly",Adverb,JLPT2
+大分,だいぶ,very/greatly,Adverb,JLPT2
 少年,しょうねん,boy,Noun,JLPT2
 少しも,すこしも,at all,Adverb,JLPT2
-少々,しょうしょう,"a little, a few",Adverb,JLPT2
-上り,のぼり,"going up, ascent",Noun,JLPT2
-プログラム,,program,Noun,JLPT2
-下り,くだり,"downhill, going down",Noun,JLPT2
-下る,くだる,"go down, go down or away from a central place",Verb,JLPT2
+少々,しょうしょう,a little/a few,Adverb,JLPT2
+上り,のぼり,going up/ascent,Noun,JLPT2
+プログラム,プログラム,program,Noun,JLPT2
+下り,くだり,downhill/going down,Noun,JLPT2
+下る,くだる,go down/go down or away from a central place,Verb,JLPT2
 一方,いっぽう,one way,Noun,JLPT2
-方,かた,person　（polite form),Noun,JLPT2
-協力,きょうりょく,"cooperation, collaboration",Verbal Noun,JLPT2
-ただ,,free,Noun,JLPT2
-これら,,these,Noun,JLPT2
-いずれ,,"eventually, sometime",Adverb,JLPT2
-海外,かいがい,"overseas, abroad",Noun,JLPT2
-なお,,"still, in addition",Adverb,JLPT2
-ほぼ,,"almost, nearly",Adverb,JLPT2
-林,はやし,"woods, grove",Noun,JLPT2
-森,もり,"thick woods, forest",Noun,JLPT2
-サービス,,"service, on the house",Verbal Noun,JLPT2
-達する,たっする,"attain, reach",Verb,JLPT2
-グループ,,group,Noun,JLPT2
-気に入る,きにいる,"like, be pleased with",Verb,JLPT2
-人気,にんき,"popularity, temperament of the people, business conditions",Noun,JLPT2
-青,あお,"blue, green, green light",Noun,JLPT2
-晴れ,はれ,"fine weather, clear sky",Noun,JLPT2
-明らか,あきらか,"clear, obvious",Adjective,JLPT2
-つまり,,"in short, basically",Adverb,JLPT2
-方向,ほうこう,"direction, course",Noun,JLPT2
-向く,むく,"turn, face, look",Verb,JLPT2
+方,かた,person (polite form),Noun,JLPT2
+協力,きょうりょく,cooperation/collaboration,Verbal Noun,JLPT2
+ただ,ただ,free,Noun,JLPT2
+これら,これら,these,Noun,JLPT2
+いずれ,いずれ,eventually/sometime,Adverb,JLPT2
+海外,かいがい,overseas/abroad,Noun,JLPT2
+なお,なお,still/in addition,Adverb,JLPT2
+ほぼ,ほぼ,almost/nearly,Adverb,JLPT2
+林,はやし,woods/grove,Noun,JLPT2
+森,もり,thick woods/forest,Noun,JLPT2
+サービス,サービス,service/on the house,Verbal Noun,JLPT2
+達する,たっする,attain/reach,Verb,JLPT2
+グループ,グループ,group,Noun,JLPT2
+気に入る,きにいる,like/be pleased with,Verb,JLPT2
+人気,にんき,popularity/temperament of the people/business conditions,Noun,JLPT2
+青,あお,blue/green/green light,Noun,JLPT2
+晴れ,はれ,fine weather/clear sky,Noun,JLPT2
+明らか,あきらか,clear/obvious,Adjective,JLPT2
+つまり,つまり,in short/basically,Adverb,JLPT2
+方向,ほうこう,direction/course,Noun,JLPT2
+向く,むく,turn/face/look,Verb,JLPT2
 年間,ねんかん,period of one year,Noun,JLPT2
-人間,にんげん,"human being, people",Noun,JLPT2
-今後,こんご,"after this, in the future",Noun,JLPT2
-後,のち,"after, afterwards",Noun,JLPT2
-牛,うし,"cattle, cow",Noun,JLPT2
-そのまま,,"like that, unchanged",Adverb,JLPT2
-夜中,よなか,"midnight, dead of night",Noun,JLPT2
+人間,にんげん,human being/people,Noun,JLPT2
+今後,こんご,after this/in the future,Noun,JLPT2
+後,のち,after/afterwards,Noun,JLPT2
+牛,うし,cattle/cow,Noun,JLPT2
+そのまま,そのまま,like that/unchanged,Adverb,JLPT2
+夜中,よなか,midnight/dead of night,Noun,JLPT2
 昼食,ちゅうしょく,lunch,Noun,JLPT2
-ずっと,,"all day, from start to finish",Adverb,JLPT2
-読み,よみ,"reading, judgment, foresight",Noun,JLPT2
-語る,かたる,"tell, talk",Verb,JLPT2
-言語,げんご,"language, speech",Noun,JLPT2
-ビデオ,,video,Noun,JLPT2
-文字,もじ,"character, letter",Noun,JLPT2
-マンション,,"apartment, apartment block, condominium",Noun,JLPT2
-覚める,さめる,"awake, wake up",Verb,JLPT2
-覚ます,さます,"awaken, wake up",Verb,JLPT2
-大会,たいかい,"mass meeting, tournament",Noun,JLPT2
-話し合う,はなしあう,"discuss, talk over",Verb,JLPT2
-ガス,,gas,Noun,JLPT2
-サラリーマン,,"office worker, salaried worker, company employee",Noun,JLPT2
+ずっと,ずっと,all day/from start to finish,Adverb,JLPT2
+読み,よみ,reading/judgment/foresight,Noun,JLPT2
+語る,かたる,tell/talk,Verb,JLPT2
+言語,げんご,language/speech,Noun,JLPT2
+ビデオ,ビデオ,video,Noun,JLPT2
+文字,もじ,character/letter,Noun,JLPT2
+マンション,マンション,apartment/apartment block/condominium,Noun,JLPT2
+覚める,さめる,awake/wake up,Verb,JLPT2
+覚ます,さます,awaken/wake up,Verb,JLPT2
+大会,たいかい,mass meeting/tournament,Noun,JLPT2
+話し合う,はなしあう,discuss/talk over,Verb,JLPT2
+ガス,ガス,gas,Noun,JLPT2
+サラリーマン,サラリーマン,office worker/salaried worker/company employee,Noun,JLPT2
 工事,こうじ,construction,Verbal Noun,JLPT2
-トラック,,"truck, lorry",Noun,JLPT2
-道路,どうろ,"road, street",Noun,JLPT2
+トラック,トラック,truck/lorry,Noun,JLPT2
+道路,どうろ,road/street,Noun,JLPT2
 土地,とち,land,Noun,JLPT2
-他,た,"others, other things",Noun,JLPT2
-止む,やむ,"stop, abate",Verb,JLPT2
-歩道,ほどう,"sidewalk, footpath",Noun,JLPT2
-年度,ねんど,"year, school year",Noun,JLPT2
-コース,,"course, route",Noun,JLPT2
+他,た,others/other things,Noun,JLPT2
+止む,やむ,stop/abate,Verb,JLPT2
+歩道,ほどう,sidewalk/footpath,Noun,JLPT2
+年度,ねんど,year/school year,Noun,JLPT2
+コース,コース,course/route,Noun,JLPT2
 長男,ちょうなん,eldest son,Noun,JLPT2
 長女,ちょうじょ,eldest daughter,Noun,JLPT2
-広がる,ひろがる,"spread out, reach",Verb,JLPT2
-広さ,ひろさ,"area, extent",Noun,JLPT2
-全体,ぜんたい,"whole, total",Noun,JLPT2
-全く,まったく,"entirely, truly, indeed",Adverb,JLPT2
-部分,ぶぶん,"part, section",Noun,JLPT2
-どんどん,,knock,Adverb,JLPT2
+広がる,ひろがる,spread out/reach,Verb,JLPT2
+広さ,ひろさ,area/extent,Noun,JLPT2
+全体,ぜんたい,whole/total,Noun,JLPT2
+全く,まったく,entirely/truly/indeed,Adverb,JLPT2
+部分,ぶぶん,part/section,Noun,JLPT2
+どんどん,どんどん,knock,Adverb,JLPT2
 全国,ぜんこく,the whole country,Noun,JLPT2
-国会,こっかい,"National Diet, parliament",Noun,JLPT2
+国会,こっかい,National Diet/parliament,Noun,JLPT2
 白,しろ,white,Noun,JLPT2
 黒,くろ,black,Noun,JLPT2
-赤,あか,"red, crimson",Noun,JLPT2
-ビール,,"beer, lager",Noun,JLPT2
+赤,あか,red/crimson,Noun,JLPT2
+ビール,ビール,beer/lager,Noun,JLPT2
 銀,ぎん,silver,Noun,JLPT2
-ページ,,page,Noun,JLPT2
-分野,ぶんや,"field, sphere",Noun,JLPT2
-ポスト,ポスト,"post box, letter box",Noun,JLPT2
+ページ,ページ,page,Noun,JLPT2
+分野,ぶんや,field/sphere,Noun,JLPT2
+ポスト,ポスト,post box/letter box,Noun,JLPT2
 茶,ちゃ,tea (plain form),Noun,JLPT2
 未来,みらい,future,Noun,JLPT2
-あちこち,,all over,Noun,JLPT2
-用いる,もちいる,"use, make use of",Verb,JLPT2
+あちこち,あちこち,all over,Noun,JLPT2
+用いる,もちいる,use/make use of,Verb,JLPT2
 消しゴム,けしごむ,eraser,Noun,JLPT2
-売れる,うれる,"sell, be in demand",Verb,JLPT2
-売店,ばいてん,"booth, store",Noun,JLPT2
-商品,しょうひん,"goods, commodities",Noun,JLPT2
-作品,さくひん,"work of art, piece",Noun,JLPT2
-販売,はんばい,"sale, selling",Verbal Noun,JLPT2
+売れる,うれる,sell/be in demand,Verb,JLPT2
+売店,ばいてん,booth/store,Noun,JLPT2
+商品,しょうひん,goods/commodities,Noun,JLPT2
+作品,さくひん,work of art/piece,Noun,JLPT2
+販売,はんばい,sale/selling,Verbal Noun,JLPT2
 段階,だんかい,stage,Noun,JLPT2
 値段,ねだん,price,Noun,JLPT2
-価格,かかく,"price, cost",Noun,JLPT2
-合格,ごうかく,"passing an examination, eligibility",Verbal Noun,JLPT2
-カード,,"card, credit card",Noun,JLPT2
+価格,かかく,price/cost,Noun,JLPT2
+合格,ごうかく,passing an examination/eligibility,Verbal Noun,JLPT2
+カード,カード,card/credit card,Noun,JLPT2
 四季,しき,the four seasons,Noun,JLPT2
-暖める,あたためる,"warm, warm up, heat up",Verb,JLPT2
+暖める,あたためる,warm/warm up/heat up,Verb,JLPT2
 暖まる,あたたまる,get warm,Verb,JLPT2
 温度,おんど,temperature,Noun,JLPT2
 気温,きおん,temperature,Noun,JLPT2
-コピー,,"copy, photocopy",Verbal Noun,JLPT2
-台,だい,"stand, platform",Noun,JLPT2
-事情,じじょう,"circumstances, conditions",Noun,JLPT2
-ぶつかる,,"hit, bump into",Verb,JLPT2
+コピー,コピー,copy/photocopy,Verbal Noun,JLPT2
+台,だい,stand/platform,Noun,JLPT2
+事情,じじょう,circumstances/conditions,Noun,JLPT2
+ぶつかる,ぶつかる,hit/bump into,Verb,JLPT2
 情報,じょうほう,information,Noun,JLPT2
 報告,ほうこく,report,Verbal Noun,JLPT2
-中心,ちゅうしん,"center, middle",Noun,JLPT2
-思い出,おもいで,"recollections, memory",Noun,JLPT2
-考え,かんがえ,"thought, view, idea",Noun,JLPT2
-解決,かいけつ,"solution, settlement",Verbal Noun,JLPT2
-能力,のうりょく,"ability, capacity",Noun,JLPT2
-可能,かのう,"possible, potential",Adjectival Noun,JLPT2
-可,か,"permitted, OK",Noun,JLPT2
-郵便,ゆうびん,"mail service, postal matter",Noun,JLPT2
-番地,ばんち,"lot number, address",Noun,JLPT2
-場所,ばしょ,"place, space",Noun,JLPT2
-ワイン,,wine,Noun,JLPT2
-便所,べんじょ,"lavatory, bathroom",Noun,JLPT2
-名字,みょうじ,"surname, family name",Noun,JLPT2
+中心,ちゅうしん,center/middle,Noun,JLPT2
+思い出,おもいで,recollections/memory,Noun,JLPT2
+考え,かんがえ,thought/view/idea,Noun,JLPT2
+解決,かいけつ,solution/settlement,Verbal Noun,JLPT2
+能力,のうりょく,ability/capacity,Noun,JLPT2
+可能,かのう,possible/potential,Adjectival Noun,JLPT2
+可,か,permitted/OK,Noun,JLPT2
+郵便,ゆうびん,mail service/postal matter,Noun,JLPT2
+番地,ばんち,lot number/address,Noun,JLPT2
+場所,ばしょ,place/space,Noun,JLPT2
+ワイン,ワイン,wine,Noun,JLPT2
+便所,べんじょ,lavatory/bathroom,Noun,JLPT2
+名字,みょうじ,surname/family name,Noun,JLPT2
 氏名,しめい,name,Noun,JLPT2
-都市,とし,"cities, urban community",Noun,JLPT2
-キャンプ,,"camping, camp",Verbal Noun,JLPT2
-プラスチック,,plastic,Noun,JLPT2
-配る,くばる,"hand out, distribute, allot",Verb,JLPT2
+都市,とし,cities/urban community,Noun,JLPT2
+キャンプ,キャンプ,camping/camp,Verbal Noun,JLPT2
+プラスチック,プラスチック,plastic,Noun,JLPT2
+配る,くばる,hand out/distribute/allot,Verb,JLPT2
 配達,はいたつ,delivery,Verbal Noun,JLPT2
-カラー,,color,Noun,JLPT2
+カラー,カラー,color,Noun,JLPT2
 見送る,みおくる,see (someone) off,Verb,JLPT2
 見送り,みおくり,seeing someone off,Verbal Noun,JLPT2
-ピアノ,,piano,Noun,JLPT2
-受け取る,うけとる,"receive, understand",Verb,JLPT2
-取れる,とれる,"come off, be removed",Verb,JLPT2
-届く,とどく,"reach, be received",Verb,JLPT2
-スキー,,"ski, skiing",Noun,JLPT2
+ピアノ,ピアノ,piano,Noun,JLPT2
+受け取る,うけとる,receive/understand,Verb,JLPT2
+取れる,とれる,come off/be removed,Verb,JLPT2
+届く,とどく,reach/be received,Verb,JLPT2
+スキー,スキー,ski/skiing,Noun,JLPT2
 生産,せいさん,production,Verbal Noun,JLPT2
-ホーム,,platform,Noun,JLPT2
+ホーム,ホーム,platform,Noun,JLPT2
 中学,ちゅうがく,junior high school,Noun,JLPT2
-小学生,しょうがくせい,"schoolchildren, schoolboy",Noun,JLPT2
-見学,けんがく,"observation tour, study tour, field trip",Verbal Noun,JLPT2
-通学,つうがく,"attending school, going to school",Verbal Noun,JLPT2
-メモ,,"memorandum, memo pad",Noun,JLPT2
-育つ,そだつ,"be brought up, grow",Verb,JLPT2
-制度,せいど,"system, organization",Noun,JLPT2
-コーヒー,,coffee,Noun,JLPT2
-数字,すうじ,"figure, numeral",Noun,JLPT2
-数える,かぞえる,"count, calculate",Verb,JLPT2
+小学生,しょうがくせい,schoolchildren/schoolboy,Noun,JLPT2
+見学,けんがく,observation tour/study tour/field trip,Verbal Noun,JLPT2
+通学,つうがく,attending school/going to school,Verbal Noun,JLPT2
+メモ,メモ,memorandum/memo pad,Noun,JLPT2
+育つ,そだつ,be brought up/grow,Verb,JLPT2
+制度,せいど,system/organization,Noun,JLPT2
+コーヒー,コーヒー,coffee,Noun,JLPT2
+数字,すうじ,figure/numeral,Noun,JLPT2
+数える,かぞえる,count/calculate,Verb,JLPT2
 今回,こんかい,this time,Noun,JLPT2
-テント,,tent,Noun,JLPT2
-回す,まわす,"turn, rotate",Verb,JLPT2
+テント,テント,tent,Noun,JLPT2
+回す,まわす,turn/rotate,Verb,JLPT2
 個人,こじん,individual,Noun,JLPT2
 担当,たんとう,person in charge,Verbal Noun,JLPT2
-ボート,,boat,Noun,JLPT2
-当たる,あたる,"hit, strike",Verb,JLPT2
-当時,とうじ,"at that time, at the present time",Noun,JLPT2
-本当,ほんとう,"truth, reality",Noun,JLPT2
-ボール,,ball,Noun,JLPT2
-全然,ぜんぜん,"wholly, at all",Adverb,JLPT2
-方法,ほうほう,"method, procedure",Noun,JLPT2
-経つ,たつ,"pass, elapse",Verb,JLPT2
-経営,けいえい,"management, operation",Verbal Noun,JLPT2
-株,かぶ,"stocks, shares",Noun,JLPT2
-企業,きぎょう,"corporation, business",Noun,JLPT2
-作業,さぎょう,"work, operation",Verbal Noun,JLPT2
+ボート,ボート,boat,Noun,JLPT2
+当たる,あたる,hit/strike,Verb,JLPT2
+当時,とうじ,at that time/at the present time,Noun,JLPT2
+本当,ほんとう,truth/reality,Noun,JLPT2
+ボール,ボール,ball,Noun,JLPT2
+全然,ぜんぜん,wholly/at all,Adverb,JLPT2
+方法,ほうほう,method/procedure,Noun,JLPT2
+経つ,たつ,pass/elapse,Verb,JLPT2
+経営,けいえい,management/operation,Verbal Noun,JLPT2
+株,かぶ,stocks/shares,Noun,JLPT2
+企業,きぎょう,corporation/business,Noun,JLPT2
+作業,さぎょう,work/operation,Verbal Noun,JLPT2
 産業,さんぎょう,industry,Noun,JLPT2
-商業,しょうぎょう,"commerce, trade",Noun,JLPT2
-スイッチ,,switch,Noun,JLPT2
+商業,しょうぎょう,commerce/trade,Noun,JLPT2
+スイッチ,スイッチ,switch,Noun,JLPT2
 手術,しゅじゅつ,surgical operation,Verbal Noun,JLPT2
-製造,せいぞう,"production, manufacture",Verbal Noun,JLPT2
-重要,じゅうよう,"important, essential",Adjectival Noun,JLPT2
-要求,ようきゅう,"requirement, demand",Verbal Noun,JLPT2
-いつでも,,"always, at all times",Adverb,JLPT2
+製造,せいぞう,production/manufacture,Verbal Noun,JLPT2
+重要,じゅうよう,important/essential,Adjectival Noun,JLPT2
+要求,ようきゅう,requirement/demand,Verbal Noun,JLPT2
+いつでも,いつでも,always/at all times,Adverb,JLPT2
 計算,けいさん,calculation,Verbal Noun,JLPT2
-交差点,こうさてん,"crossing, intersection",Noun,JLPT2
-テニス,,tennis,Verbal Noun,JLPT2
-割る,わる,"divide, crack, split",Verb,JLPT2
-残す,のこす,"leave, reserve, leave undone",Verb,JLPT2
-申し込む,もうしこむ,"apply, make a proposal",Verb,JLPT2
-期待,きたい,"expectation, anticipation",Verbal Noun,JLPT2
-期間,きかん,"term, period",Noun,JLPT2
-時期,じき,"time, season",Noun,JLPT2
+交差点,こうさてん,crossing/intersection,Noun,JLPT2
+テニス,テニス,tennis,Verbal Noun,JLPT2
+割る,わる,divide/crack/split,Verb,JLPT2
+残す,のこす,leave, reserve/leave undone,Verb,JLPT2
+申し込む,もうしこむ,apply/make a proposal,Verb,JLPT2
+期待,きたい,expectation/anticipation,Verbal Noun,JLPT2
+期間,きかん,term/period,Noun,JLPT2
+時期,じき,time/season,Noun,JLPT2
 限る,かぎる,be limited to,Verb,JLPT2
-急に,きゅうに,"suddenly, unexpectedly",Adverb,JLPT2
-切れる,きれる,"run out, expire, can cut",Verb,JLPT2
-ドラマ,,"drama, theater, soap opera",Noun,JLPT2
-売り切れる,うりきれる,"be sold out, go out of stock",Verb,JLPT2
-売り切れ,うりきれ,"sellout, sold out",Noun,JLPT2
+急に,きゅうに,suddenly/unexpectedly,Adverb,JLPT2
+切れる,きれる,run out/expire/can cut,Verb,JLPT2
+ドラマ,ドラマ,drama/theater/soap opera,Noun,JLPT2
+売り切れる,うりきれる,be sold out/go out of stock,Verb,JLPT2
+売り切れ,うりきれ,sellout/sold out,Noun,JLPT2
 家賃,やちん,rent,Noun,JLPT2
-代える,かえる,"substitute, use in place of",Verb,JLPT2
-決定,けってい,"decision, settlement",Verbal Noun,JLPT2
-一定,いってい,"constant, standard",Verbal Noun,JLPT2
+代える,かえる,substitute/use in place of,Verb,JLPT2
+決定,けってい,decision/settlement,Verbal Noun,JLPT2
+一定,いってい,constant/standard,Verbal Noun,JLPT2
 定期券,ていきけん,commuter's pass,Noun,JLPT2
 変化,へんか,change,Verbal Noun,JLPT2
 強化,きょうか,strengthening,Verbal Noun,JLPT2
-クリスマス,,Christmas,Noun,JLPT2
-増やす,ふやす,"increase, add",Verb,JLPT2
-減る,へる,"decrease, diminish",Verb,JLPT2
-減らす,へらす,"decrease, reduce",Verb,JLPT2
-降ろす,おろす,"unload, set down",Verb,JLPT2
-バイオリン,,violin,Noun,JLPT2
-パスポート,,passport,Noun,JLPT2
-着せる,きせる,"dress, put on clothes",Verb,JLPT2
-立場,たちば,"standpoint, position",Noun,JLPT2
-バッグ,,bag,Noun,JLPT2
-目立つ,めだつ,"stand out, be conspicuous",Verb,JLPT2
-ゴム,,elastic,Noun,JLPT2
-欠席,けっせき,"absence, nonattendance",Verbal Noun,JLPT2
-転ぶ,ころぶ,"tumble down, fall over",Verb,JLPT2
-移す,うつす,"move, shift, transfer",Verb,JLPT2
+クリスマス,クリスマス,Christmas,Noun,JLPT2
+増やす,ふやす,increase/add,Verb,JLPT2
+減る,へる,decrease/diminish,Verb,JLPT2
+減らす,へらす,decrease/reduce,Verb,JLPT2
+降ろす,おろす,unload/set down,Verb,JLPT2
+バイオリン,バイオリン,violin,Noun,JLPT2
+パスポート,パスポート,passport,Noun,JLPT2
+着せる,きせる,dress/put on clothes,Verb,JLPT2
+立場,たちば,standpoint/position,Noun,JLPT2
+バッグ,バッグ,bag,Noun,JLPT2
+目立つ,めだつ,stand out/be conspicuous,Verb,JLPT2
+ゴム,ゴム,elastic,Noun,JLPT2
+欠席,けっせき,absence/nonattendance,Verbal Noun,JLPT2
+転ぶ,ころぶ,tumble down/fall over,Verb,JLPT2
+移す,うつす,move/shift/transfer,Verb,JLPT2
 活動,かつどう,activity,Verbal Noun,JLPT2
-動かす,うごかす,"move, operate",Verb,JLPT2
+動かす,うごかす,move/operate,Verb,JLPT2
 早口,はやくち,fast talking,Noun,JLPT2
-速達,そくたつ,"special delivery, express mail",Noun,JLPT2
+速達,そくたつ,special delivery/express mail,Noun,JLPT2
 開始,かいし,beginning,Verbal Noun,JLPT2
-始めに,はじめに,"in the beginning, early in",Adverb,JLPT2
-現在,げんざい,"the present, present time",Noun,JLPT2
-実現,じつげん,"implementation, realization",Verbal Noun,JLPT2
-実施,じっし,"enforcement, implementation",Verbal Noun,JLPT2
-事実,じじつ,"fact, truth",Noun,JLPT2
-実行,じっこう,"practice, execution",Verbal Noun,JLPT2
+始めに,はじめに,in the beginning/early in,Adverb,JLPT2
+現在,げんざい,the present/present time,Noun,JLPT2
+実現,じつげん,implementation/realization,Verbal Noun,JLPT2
+実施,じっし,enforcement/implementation,Verbal Noun,JLPT2
+事実,じじつ,fact/truth,Noun,JLPT2
+実行,じっこう,practice/execution,Verbal Noun,JLPT2
 実験,じっけん,experiment,Verbal Noun,JLPT2
-通過,つうか,"passing, passage",Verbal Noun,JLPT2
+通過,つうか,passing/passage,Verbal Noun,JLPT2
 過去,かこ,the past,Noun,JLPT2
-発見,はっけん,"discovery, revelation",Verbal Noun,JLPT2
-発車,はっしゃ,"start, leave",Verbal Noun,JLPT2
+発見,はっけん,discovery/revelation,Verbal Noun,JLPT2
+発車,はっしゃ,start/leave,Verbal Noun,JLPT2
 発表,はっぴょう,announcement,Verbal Noun,JLPT2
-きつい,,"tight, difficult",Adjective,JLPT2
+きつい,きつい,tight/difficult,Adjective,JLPT2
 表現,ひょうげん,expression,Verbal Noun,JLPT2
 代表,だいひょう,representative,Verbal Noun,JLPT2
-表,ひょう,"table, list",Noun,JLPT2
-ビニール,,plastic bag,Noun,JLPT2
+表,ひょう,table/list,Noun,JLPT2
+ビニール,ビニール,plastic bag,Noun,JLPT2
 歌手,かしゅ,singer,Noun,JLPT2
-写る,うつる,"be taken, be seen through",Verb,JLPT2
-アルバム,,album,Noun,JLPT2
+写る,うつる,be taken/be seen through,Verb,JLPT2
+アルバム,アルバム,album,Noun,JLPT2
 真っ赤,まっか,deep red,Adjectival Noun,JLPT2
-真面目,まじめ,"serious, sober, earnest",Adjectival Noun,JLPT2
+真面目,まじめ,serious/sober/earnest,Adjectival Noun,JLPT2
 真っ白,まっしろ,pure-white,Adjectival Noun,JLPT2
 真っ暗,まっくら,pitch-dark,Adjectival Noun,JLPT2
-真っ黒,まっくろ,"deep-black, jet-black",Adjectival Noun,JLPT2
-真っ青,まっさお,"deep-blue, pale (skin)",Adjectival Noun,JLPT2
-種類,しゅるい,"kind, species",Noun,JLPT2
-おしゃべり,,"chatter, talkative",Verbal Noun,JLPT2
-真っ直ぐ,まっすぐ,"dead straight, honestly",Adverb,JLPT2
+真っ黒,まっくろ,deep-black/jet-black,Adjectival Noun,JLPT2
+真っ青,まっさお,deep-blue/pale (skin),Adjectival Noun,JLPT2
+種類,しゅるい,kind/species,Noun,JLPT2
+おしゃべり,おしゃべり,chatter/talkative,Verbal Noun,JLPT2
+真っ直ぐ,まっすぐ,dead straight/honestly,Adverb,JLPT2
 直接,ちょくせつ,directly,Adverb,JLPT2
 三角,さんかく,triangle,Noun,JLPT2
-四角,しかく,"square, quadrilateral",Adjectival Noun,JLPT2
-四角い,しかくい,"square, four-sided",Adjective,JLPT2
-四つ角,よつかど,"street corner, intersection",Noun,JLPT2
-メニュー,,"menu, bill of fare",Noun,JLPT2
-曲げる,まげる,"bend, curve",Verb,JLPT2
+四角,しかく,square/quadrilateral,Adjectival Noun,JLPT2
+四角い,しかくい,square/four-sided,Adjective,JLPT2
+四つ角,よつかど,street corner/intersection,Noun,JLPT2
+メニュー,メニュー,menu/bill of fare,Noun,JLPT2
+曲げる,まげる,bend/curve,Verb,JLPT2
 同様,どうよう,similar,Adjectival Noun,JLPT2
-アイスクリーム,,ice cream,Noun,JLPT2
-間違い,まちがい,"mistake, error",Noun,JLPT2
-おしゃれ,おしゃれ,"dressing up smartly, trendy",Verbal Noun,JLPT2
-ジュース,,"juice, soft drink",Noun,JLPT2
-泊める,とめる,"lodge, give shelter",Verb,JLPT2
+アイスクリーム,アイスクリーム,ice cream,Noun,JLPT2
+間違い,まちがい,mistake/error,Noun,JLPT2
+おしゃれ,おしゃれ,dressing up smartly/trendy,Verbal Noun,JLPT2
+ジュース,ジュース,juice/soft drink,Noun,JLPT2
+泊める,とめる,lodge/give shelter,Verb,JLPT2
 ピンク,ピンク,pink,Noun,JLPT2
-親しい,したしい,"intimate, familiar",Adjective,JLPT2
-グラス,,glass,Noun,JLPT2
-万歳,ばんざい,Banzai! Hurrah! Long live...!,Verbal Noun,JLPT2
-ダンス,,"dance, dancing",Verbal Noun,JLPT2
-結果,けっか,"result, outcome",Noun,JLPT2
-課,か,"section, division, lesson",Noun,JLPT2
-効果,こうか,"effect, result",Noun,JLPT2
+親しい,したしい,intimate/familiar,Adjective,JLPT2
+グラス,グラス,glass,Noun,JLPT2
+万歳,ばんざい,Banzai!/Hurrah!/Long live...!,Verbal Noun,JLPT2
+ダンス,ダンス,dance/dancing,Verbal Noun,JLPT2
+結果,けっか,result/outcome,Noun,JLPT2
+課,か,section/division/lesson,Noun,JLPT2
+効果,こうか,effect/result,Noun,JLPT2
 自然,しぜん,nature,Noun,JLPT2
-スープ,,"soup, broth",Noun,JLPT2
-自然,しぜん,"natural, naturally",Adjectival Noun,JLPT2
-自習,じしゅう,"self-study, self-teaching",Verbal Noun,JLPT2
-信じる,しんじる,"believe, trust, have faith in",Verb,JLPT2
-信号,しんごう,"signal, traffic light",Noun,JLPT2
-市民,しみん,"citizens, townsmen",Noun,JLPT2
-住民,じゅうみん,"residents, dwellers",Noun,JLPT2
-主人,しゅじん,"master, husband",Noun,JLPT2
+スープ,スープ,soup/broth,Noun,JLPT2
+自然,しぜん,natural/naturally,Adjectival Noun,JLPT2
+自習,じしゅう,self-study/self-teaching,Verbal Noun,JLPT2
+信じる,しんじる,believe/trust/have faith in,Verb,JLPT2
+信号,しんごう,signal/traffic light,Noun,JLPT2
+市民,しみん,citizens/townsmen,Noun,JLPT2
+住民,じゅうみん,residents/dwellers,Noun,JLPT2
+主人,しゅじん,master/husband,Noun,JLPT2
 議員,ぎいん,legislator,Noun,JLPT2
-対する,たいする,"face, be in response to",Verb,JLPT2
-対立,たいりつ,"opposition, antagonism",Verbal Noun,JLPT2
+対する,たいする,face/be in response to,Verb,JLPT2
+対立,たいりつ,opposition/antagonism,Verbal Noun,JLPT2
 別々,べつべつ,separately,Adjectival Noun,JLPT2
-一般,いっぱん,"general, common",Noun,JLPT2
-目的,もくてき,"object, purpose",Noun,JLPT2
-タオル,,towel,Noun,JLPT2
-平和,へいわ,"peace, harmony",Adjectival Noun,JLPT2
+一般,いっぱん,general/common,Noun,JLPT2
+目的,もくてき,object/purpose,Noun,JLPT2
+タオル,タオル,towel,Noun,JLPT2
+平和,へいわ,peace/harmony,Adjectival Noun,JLPT2
 大学院,だいがくいん,graduate school,Noun,JLPT2
-ケーキ,,cake,Noun,JLPT2
-教科書,きょうかしょ,"textbook, schoolbook",Noun,JLPT2
+ケーキ,ケーキ,cake,Noun,JLPT2
+教科書,きょうかしょ,textbook/schoolbook,Noun,JLPT2
 理科,りか,science,Noun,JLPT2
-禁煙,きんえん,"no smoking, giving up smoking",Verbal Noun,JLPT2
-酔っ払い,よっぱらい,"drunkard, boozer",Noun,JLPT2
-ナイロン,,nylon,Noun,JLPT2
-存在,そんざい,"existence, being",Verbal Noun,JLPT2
-スーツ,,suit,Noun,JLPT2
-注目,ちゅうもく,"attention, notice",Verbal Noun,JLPT2
-注文,ちゅうもん,"order, request",Verbal Noun,JLPT2
+禁煙,きんえん,no smoking/giving up smoking,Verbal Noun,JLPT2
+酔っ払い,よっぱらい,drunkard/boozer,Noun,JLPT2
+ナイロン,ナイロン,nylon,Noun,JLPT2
+存在,そんざい,existence/being,Verbal Noun,JLPT2
+スーツ,スーツ,suit,Noun,JLPT2
+注目,ちゅうもく,attention/notice,Verbal Noun,JLPT2
+注文,ちゅうもん,order/request,Verbal Noun,JLPT2
 確認,かくにん,confirmation,Verbal Noun,JLPT2
-機能,きのう,"function, feature",Verbal Noun,JLPT2
+機能,きのう,function/feature,Verbal Noun,JLPT2
 ジェット機,ジェットき,jet airplane,Noun,JLPT2
-材料,ざいりょう,"material, factor",Noun,JLPT2
+材料,ざいりょう,material/factor,Noun,JLPT2
 基づく,もとづく,be based on,Verb,JLPT2
-基本,きほん,"basis, foundation",Noun,JLPT2
-基準,きじゅん,"standard, criterion",Noun,JLPT2
-備える,そなえる,"provide for, furnish",Verb,JLPT2
-設計,せっけい,"design, plan",Verbal Noun,JLPT2
-実際,じっさい,"truth, actual state",Adverb,JLPT2
-船便,ふなびん,"surface mail, shipping service",Noun,JLPT2
-デート,,date,Verbal Noun,JLPT2
-完成,かんせい,"completion, finish",Verbal Noun,JLPT2
+基本,きほん,basis/foundation,Noun,JLPT2
+基準,きじゅん,standard/criterion,Noun,JLPT2
+備える,そなえる,provide for/furnish,Verb,JLPT2
+設計,せっけい,design/plan,Verbal Noun,JLPT2
+実際,じっさい,truth/actual state,Adverb,JLPT2
+船便,ふなびん,surface mail/shipping service,Noun,JLPT2
+デート,デート,date,Verbal Noun,JLPT2
+完成,かんせい,completion/finish,Verbal Noun,JLPT2
 成功,せいこう,success,Verbal Noun,JLPT2
-願う,ねがう,"wish, ask a favor, apply for",Verb,JLPT2
-正確,せいかく,"accurate, precise",Adjectival Noun,JLPT2
-正直,しょうじき,"honest, upright",Adjectival Noun,JLPT2
+願う,ねがう,wish/ask a favor/apply for,Verb,JLPT2
+正確,せいかく,accurate/precise,Adjectival Noun,JLPT2
+正直,しょうじき,honest/upright,Adjectival Noun,JLPT2
 異なる,ことなる,differ,Verb,JLPT2
-チーズ,,cheese,Noun,JLPT2
-強調,きょうちょう,"emphasis, stress",Verbal Noun,JLPT2
-ドライブ,,drive,Verbal Noun,JLPT2
-調査,ちょうさ,"investigation, inquiry",Verbal Noun,JLPT2
-提案,ていあん,"proposition, proposal",Verbal Noun,JLPT2
-ラケット,,racket,Noun,JLPT2
-示す,しめす,"show, indicate",Verb,JLPT2
-スチュワーデス,,flight attendant,Noun,JLPT2
+チーズ,チーズ,cheese,Noun,JLPT2
+強調,きょうちょう,emphasis/stress,Verbal Noun,JLPT2
+ドライブ,ドライブ,drive,Verbal Noun,JLPT2
+調査,ちょうさ,investigation/inquiry,Verbal Noun,JLPT2
+提案,ていあん,proposition/proposal,Verbal Noun,JLPT2
+ラケット,ラケット,racket,Noun,JLPT2
+示す,しめす,show/indicate,Verb,JLPT2
+スチュワーデス,スチュワーデス,flight attendant,Noun,JLPT2
 相手,あいて,opponent,Noun,JLPT2
-記者,きしゃ,"journalist, reporter",Noun,JLPT2
-記録,きろく,"record, documentation",Verbal Noun,JLPT2
+記者,きしゃ,journalist/reporter,Noun,JLPT2
+記録,きろく,record/documentation,Verbal Noun,JLPT2
 録音,ろくおん,sound recording,Verbal Noun,JLPT2
-関する,かんする,"concern, relate to",Verb,JLPT2
-関連,かんれん,"connection, relation",Verbal Noun,JLPT2
-状況,じょうきょう,"state of affairs, conditions",Noun,JLPT2
-ぐっすり,,soundly,Adverb,JLPT2
-状態,じょうたい,"state, appearance",Noun,JLPT2
-治す,なおす,"cure, heal",Verb,JLPT2
-政府,せいふ,"government, administration",Noun,JLPT2
+関する,かんする,concern/relate to,Verb,JLPT2
+関連,かんれん,connection/relation,Verbal Noun,JLPT2
+状況,じょうきょう,state of affairs/conditions,Noun,JLPT2
+ぐっすり,ぐっすり,soundly,Adverb,JLPT2
+状態,じょうたい,state/appearance,Noun,JLPT2
+治す,なおす,cure/heal,Verb,JLPT2
+政府,せいふ,government/administration,Noun,JLPT2
 党,とう,political party,Noun,JLPT2
-対策,たいさく,"measure, action",Noun,JLPT2
-タイプライター,,typewriter,Noun,JLPT2
+対策,たいさく,measure/action,Noun,JLPT2
+タイプライター,タイプライター,typewriter,Noun,JLPT2
 選手,せんしゅ,representative athlete,Noun,JLPT2
-候補,こうほ,"candidacy, candidate",Noun,JLPT2
+候補,こうほ,candidacy/candidate,Noun,JLPT2
 首相,しゅしょう,prime minister,Noun,JLPT2
 首都,しゅと,capital,Noun,JLPT2
 革,かわ,leather,Noun,JLPT2
-命令,めいれい,"command, order",Verbal Noun,JLPT2
-組み立てる,くみたてる,"build, set up, construct",Verb,JLPT2
-組織,そしき,"organization, constitution, tissue",Verbal Noun,JLPT2
-進める,すすめる,"advance, promote",Verb,JLPT2
-進む,すすむ,"advance, move forward",Verb,JLPT2
+命令,めいれい,command/order,Verbal Noun,JLPT2
+組み立てる,くみたてる,build, set up/construct,Verb,JLPT2
+組織,そしき,organization/constitution/tissue,Verbal Noun,JLPT2
+進める,すすめる,advance/promote,Verb,JLPT2
+進む,すすむ,advance/move forward,Verb,JLPT2
 進学,しんがく,entering a school of higher grade,Verbal Noun,JLPT2
-拡大,かくだい,"magnification, enlargement",Verbal Noun,JLPT2
-おかず,,side dish,Noun,JLPT2
-責任,せきにん,"responsibility, liability",Noun,JLPT2
-辞める,やめる,"resign, retire",Verb,JLPT2
-通勤,つうきん,"commuting, commutation",Verbal Noun,JLPT2
-ハンドバッグ,,handbag,Noun,JLPT2
-成績,せいせき,"results, record",Noun,JLPT2
-給料,きゅうりょう,"salary, pay",Noun,JLPT2
+拡大,かくだい,magnification/enlargement,Verbal Noun,JLPT2
+おかず,おかず,side dish,Noun,JLPT2
+責任,せきにん,responsibility/liability,Noun,JLPT2
+辞める,やめる,resign/retire,Verb,JLPT2
+通勤,つうきん,commuting/commutation,Verbal Noun,JLPT2
+ハンドバッグ,ハンドバッグ,handbag,Noun,JLPT2
+成績,せいせき,results/record,Noun,JLPT2
+給料,きゅうりょう,salary/pay,Noun,JLPT2
 就職,しゅうしょく,finding employment,Verbal Noun,JLPT2
-インク,,ink,Noun,JLPT2
-契約,けいやく,"contract, agreement",Verbal Noun,JLPT2
-事件,じけん,"affair, case",Noun,JLPT2
-条件,じょうけん,"condition, item",Noun,JLPT2
-クーラー,,"air conditioning, cooler",Noun,JLPT2
+インク,インク,ink,Noun,JLPT2
+契約,けいやく,contract/agreement,Verbal Noun,JLPT2
+事件,じけん,affair/case,Noun,JLPT2
+条件,じょうけん,condition/item,Noun,JLPT2
+クーラー,クーラー,air conditioning/cooler,Noun,JLPT2
 参加,さんか,participation,Verbal Noun,JLPT2
-増加,ぞうか,"increase, gain",Verbal Noun,JLPT2
-加える,くわえる,"add, include",Verb,JLPT2
-ミルク,,"milk, baby milk",Noun,JLPT2
-批判,ひはん,"criticism, comment",Verbal Noun,JLPT2
-評価,ひょうか,"evaluation, appraisal",Verbal Noun,JLPT2
-対象,たいしょう,"target, object",Noun,JLPT2
-サラダ,,salad,Noun,JLPT2
-修理,しゅうり,"repair, mending",Verbal Noun,JLPT2
-換える,かえる,"exchange, convert",Verb,JLPT2
+増加,ぞうか,increase/gain,Verbal Noun,JLPT2
+加える,くわえる,add/include,Verb,JLPT2
+ミルク,ミルク,milk/baby milk,Noun,JLPT2
+批判,ひはん,criticism/comment,Verbal Noun,JLPT2
+評価,ひょうか,evaluation/appraisal,Verbal Noun,JLPT2
+対象,たいしょう,target/object,Noun,JLPT2
+サラダ,サラダ,salad,Noun,JLPT2
+修理,しゅうり,repair/mending,Verbal Noun,JLPT2
+換える,かえる,exchange/convert,Verb,JLPT2
 着替える,きがえる,change clothes,Verb,JLPT2
-被る,かぶる,"wear, put on",Verb,JLPT2
-破る,やぶる,"tear, break through, breach",Verb,JLPT2
-ベルト,,belt,Noun,JLPT2
-破れる,やぶれる,"tear, rip open",Verb,JLPT2
-助ける,たすける,"help, save",Verb,JLPT2
-立派,りっぱ,"fine, excellent",Adjectival Noun,JLPT2
-管理,かんり,"management, administration",Verbal Noun,JLPT2
-ライター,,lighter,Noun,JLPT2
-殺す,ころす,"kill, smother",Verb,JLPT2
-逮捕,たいほ,"arrest, capture",Verbal Noun,JLPT2
+被る,かぶる,wear/put on,Verb,JLPT2
+破る,やぶる,tear/break through/breach,Verb,JLPT2
+ベルト,ベルト,belt,Noun,JLPT2
+破れる,やぶれる,tear/rip open,Verb,JLPT2
+助ける,たすける,help/save,Verb,JLPT2
+立派,りっぱ,fine/excellent,Adjectival Noun,JLPT2
+管理,かんり,management/administration,Verbal Noun,JLPT2
+ライター,ライター,lighter,Noun,JLPT2
+殺す,ころす,kill/smother,Verb,JLPT2
+逮捕,たいほ,arrest/capture,Verbal Noun,JLPT2
 大統領,だいとうりょう,president (of a country),Noun,JLPT2
-シャワー,,shower,Noun,JLPT2
-電池,でんち,"electric cell, battery",Noun,JLPT2
-うどん,,"noodles, Japanese wheat noodles",Noun,JLPT2
-浅い,あさい,"shallow, superficial",Adjective,JLPT2
-流れる,ながれる,"flow, pass, drift away",Verb,JLPT2
-流行る,はやる,"be in fashion, be popular",Verb,JLPT2
-油,あぶら,"oil, animal oil",Noun,JLPT2
-沈む,しずむ,"sink, set",Verb,JLPT2
+シャワー,シャワー,shower,Noun,JLPT2
+電池,でんち,electric cell/battery,Noun,JLPT2
+うどん,うどん,noodles/Japanese wheat noodles,Noun,JLPT2
+浅い,あさい,shallow/superficial,Adjective,JLPT2
+流れる,ながれる,flow/pass/drift away,Verb,JLPT2
+流行る,はやる,be in fashion/be popular,Verb,JLPT2
+油,あぶら,oil/animal oil,Noun,JLPT2
+沈む,しずむ,sink/set,Verb,JLPT2
 氷,こおり,ice,Noun,JLPT2
-冷やす,ひやす,"cool, chill",Verb,JLPT2
-冷める,さめる,"cool off, subside",Verb,JLPT2
-凍る,こおる,"freeze, congeal",Verb,JLPT2
-汚す,よごす,"make dirty, soil",Verb,JLPT2
-アナウンサー,,"news reader, announcer",Noun,JLPT2
-影響,えいきょう,"influence, effect",Verbal Noun,JLPT2
-光る,ひかる,"shine, emit light",Verb,JLPT2
+冷やす,ひやす,cool/chill,Verb,JLPT2
+冷める,さめる,cool off/subside,Verb,JLPT2
+凍る,こおる,freeze/congeal,Verb,JLPT2
+汚す,よごす,make dirty/soil,Verb,JLPT2
+アナウンサー,アナウンサー,news reader/announcer,Noun,JLPT2
+影響,えいきょう,influence/effect,Verbal Noun,JLPT2
+光る,ひかる,shine/emit light,Verb,JLPT2
 太陽,たいよう,sun,Noun,JLPT2
 地球,ちきゅう,the Earth,Noun,JLPT2
-ブラウス,,blouse,Noun,JLPT2
-震える,ふるえる,"tremble, quiver, shake",Verb,JLPT2
-振る,ふる,"wave, shake, brandish",Verb,JLPT2
-リボン,,ribbon,Noun,JLPT2
-秘密,ひみつ,"secret, privacy",Adjectival Noun,JLPT2
+ブラウス,ブラウス,blouse,Noun,JLPT2
+震える,ふるえる,tremble/quiver/shake,Verb,JLPT2
+振る,ふる,wave/shake/brandish,Verb,JLPT2
+リボン,リボン,ribbon,Noun,JLPT2
+秘密,ひみつ,secret/privacy,Adjectival Noun,JLPT2
 世紀,せいき,century,Noun,JLPT2
-建設,けんせつ,"construction, building",Verbal Noun,JLPT2
-建つ,たつ,"be built, be erected",Verb,JLPT2
+建設,けんせつ,construction/building,Verbal Noun,JLPT2
+建つ,たつ,be built/be erected,Verb,JLPT2
 構成,こうせい,organization,Verbal Noun,JLPT2
-構造,こうぞう,"construction, structure",Noun,JLPT2
-位置,いち,"position, place",Verbal Noun,JLPT2
+構造,こうぞう,construction/structure,Noun,JLPT2
+位置,いち,position/place,Verbal Noun,JLPT2
 離婚,りこん,divorce,Verbal Noun,JLPT2
 停車,ていしゃ,stoppage,Verbal Noun,JLPT2
-周辺,しゅうへん,"environs, circumference",Noun,JLPT2
+周辺,しゅうへん,environs/circumference,Noun,JLPT2
 黄色,きいろ,yellow,Noun,JLPT2
-判断,はんだん,"judgment, decision",Verbal Noun,JLPT2
-断る,ことわる,"refuse, turn down",Verb,JLPT2
-ネックレス,,necklace,Noun,JLPT2
+判断,はんだん,judgment/decision,Verbal Noun,JLPT2
+断る,ことわる,refuse/turn down,Verb,JLPT2
+ネックレス,ネックレス,necklace,Noun,JLPT2
 冷房,れいぼう,air conditioning,Verbal Noun,JLPT2
-文房具,ぶんぼうぐ,"stationery, writing materials",Noun,JLPT2
+文房具,ぶんぼうぐ,stationery/writing materials,Noun,JLPT2
 輸入,ゆにゅう,import,Verbal Noun,JLPT2
-往復,おうふく,"going and returning, round trip",Noun,JLPT2
+往復,おうふく,going and returning/round trip,Noun,JLPT2
 繰り返す,くりかえす,repeat,Verb,JLPT2
 留学,りゅうがく,studying abroad,Verbal Noun,JLPT2
-停留所,ていりゅうじょ,"stop, station",Noun,JLPT2
+停留所,ていりゅうじょ,stop/station,Noun,JLPT2
 書留,かきとめ,registered mail,Noun,JLPT2
-守る,まもる,"protect, observe",Verb,JLPT2
-住宅,じゅうたく,"housing, residence",Noun,JLPT2
-自宅,じたく,"one's house, one's home",Noun,JLPT2
-昼寝,ひるね,"siesta, nap",Verbal Noun,JLPT2
-両替,りょうがえ,"money changing, exchange of money",Verbal Noun,JLPT2
+守る,まもる,protect/observe,Verb,JLPT2
+住宅,じゅうたく,housing/residence,Noun,JLPT2
+自宅,じたく,one's house/one's home,Noun,JLPT2
+昼寝,ひるね,siesta/nap,Verbal Noun,JLPT2
+両替,りょうがえ,money changing/exchange of money,Verbal Noun,JLPT2
 片道,かたみち,one way,Noun,JLPT2
-にこにこ,,smile,Adverb,JLPT2
-裏返す,うらがえす,"turn over, turn inside out",Verb,JLPT2
+にこにこ,にこにこ,smile/with a friendly grin,Adverb,JLPT2
+裏返す,うらがえす,turn over/turn inside out,Verb,JLPT2
 夕刊,ゆうかん,evening edition,Noun,JLPT2
-ウール,,wool,Noun,JLPT2
-詳しい,くわしい,"detailed, complete",Adjective,JLPT2
-積もる,つもる,"accumulate, get accumulated",Verb,JLPT2
-訳,やく,"translation, rendering",Noun,JLPT2
+ウール,ウール,wool,Noun,JLPT2
+詳しい,くわしい,detailed/complete,Adjective,JLPT2
+積もる,つもる,accumulate/get accumulated,Verb,JLPT2
+訳,やく,translation/rendering,Noun,JLPT2
 訳す,やくす,translate,Verb,JLPT2
-検討,けんとう,"consideration, inspection",Verbal Noun,JLPT2
-付く,つく,"attach itself to, be connected with, come in contact with",Verb,JLPT2
-付ける,つける,"attach, set, apply",Verb,JLPT2
-片付く,かたづく,"be put in order, be settled",Verb,JLPT2
-気を付ける,きをつける,"take care of, pay attention to",Verb,JLPT2
-ハイキング,,hiking,Verbal Noun,JLPT2
-貼る,はる,"stick, paste",Verb,JLPT2
-例,れい,"example, precedent",Noun,JLPT2
-余る,あまる,"remain over, be in excess",Verb,JLPT2
-除く,のぞく,"rid of, exclude",Verb,JLPT2
-削る,けずる,"grind down, trim, scale back",Verb,JLPT2
-遅刻,ちこく,"tardiness, lateness",Verbal Noun,JLPT2
-緩い,ゆるい,"slack, loose",Adjective,JLPT2
-苦しい,くるしい,"painful, difficult",Adjective,JLPT2
-アイロン,,iron,Noun,JLPT2
-苦手,にがて,"person that is hard to deal with, weak point",Adjectival Noun,JLPT2
-不幸,ふこう,"unhappiness, misfortune, bereavement",Adjectival Noun,JLPT2
-幸せ,しあわせ,"happiness, good fortune",Adjectival Noun,JLPT2
+検討,けんとう,consideration/inspection,Verbal Noun,JLPT2
+付く,つく,attach itself to/be connected with/come in contact with,Verb,JLPT2
+付ける,つける,attach/set/apply,Verb,JLPT2
+片付く,かたづく,be put in order/be settled,Verb,JLPT2
+気を付ける,きをつける,take care of/pay attention to,Verb,JLPT2
+ハイキング,ハイキング,hiking,Verbal Noun,JLPT2
+貼る,はる,stick/paste,Verb,JLPT2
+例,れい,example/precedent,Noun,JLPT2
+余る,あまる,remain over/be in excess,Verb,JLPT2
+除く,のぞく,rid of/exclude,Verb,JLPT2
+削る,けずる,grind down/trim/scale back,Verb,JLPT2
+遅刻,ちこく,tardiness/lateness,Verbal Noun,JLPT2
+緩い,ゆるい,slack/loose,Adjective,JLPT2
+苦しい,くるしい,painful/difficult,Adjective,JLPT2
+アイロン,アイロン,iron,Noun,JLPT2
+苦手,にがて,person that is hard to deal with/weak point,Adjectival Noun,JLPT2
+不幸,ふこう,unhappiness/misfortune/bereavement,Adjectival Noun,JLPT2
+幸せ,しあわせ,happiness/good fortune,Adjectival Noun,JLPT2
 塩辛い,しおからい,salty,Adjective,JLPT2
 農業,のうぎょう,agriculture,Noun,JLPT2
-濃い,こい,"thick, concentrated, dark-colored",Adjective,JLPT2
-迫る,せまる,"press, close in on, be imminent",Verb,JLPT2
-伸びる,のびる,"stretch, grow",Verb,JLPT2
-越える,こえる,"go over, go across, go beyond",Verb,JLPT2
-追い越す,おいこす,"outrun, overtake",Verb,JLPT2
-かゆい,,itchy,Adjective,JLPT2
-程度,ていど,"degree, extent",Noun,JLPT2
-誘う,さそう,"invite, ask out",Verb,JLPT2
-努力,どりょく,"endeavor, effort",Verbal Noun,JLPT2
-独身,どくしん,"single life, celibacy",Noun,JLPT2
-占める,しめる,"occupy, hold",Verb,JLPT2
-処理,しょり,"management, process",Verbal Noun,JLPT2
-招く,まねく,"invite, beckon, engage",Verb,JLPT2
-夫婦,ふうふ,"husband and wife, married couple",Noun,JLPT2
-奥,おく,"inner part, the back, inner chamber",Noun,JLPT2
-トランプ,,"(a pack of) cards, (playing) cards",Verbal Noun,JLPT2
+濃い,こい,thick/concentrated/dark-colored,Adjective,JLPT2
+迫る,せまる,press/close in on/be imminent,Verb,JLPT2
+伸びる,のびる,stretch/grow,Verb,JLPT2
+越える,こえる,go over/go across/go beyond,Verb,JLPT2
+追い越す,おいこす,outrun/overtake,Verb,JLPT2
+かゆい,かゆい,itchy,Adjective,JLPT2
+程度,ていど,degree/extent,Noun,JLPT2
+誘う,さそう,invite/ask out,Verb,JLPT2
+努力,どりょく,endeavor/effort,Verbal Noun,JLPT2
+独身,どくしん,single life/celibacy,Noun,JLPT2
+占める,しめる,occupy/hold,Verb,JLPT2
+処理,しょり,management/process,Verbal Noun,JLPT2
+招く,まねく,invite/beckon/engage,Verb,JLPT2
+夫婦,ふうふ,husband and wife/married couple,Noun,JLPT2
+奥,おく,inner part/the back/inner chamber,Noun,JLPT2
+トランプ,トランプ,(a pack of) cards/(playing) cards,Verbal Noun,JLPT2
 誰か,だれか,someone,Noun,JLPT2
-国籍,こくせき,"nationality, citizenship",Noun,JLPT2
+国籍,こくせき,nationality/citizenship,Noun,JLPT2
 愛,あい,love,Verbal Noun,JLPT2
-恋人,こいびと,"lover, sweetheart",Noun,JLPT2
-ラッシュアワー,,rush hour,Noun,JLPT2
-祝日,しゅくじつ,"holiday, festival day",Noun,JLPT2
+恋人,こいびと,lover/sweetheart,Noun,JLPT2
+ラッシュアワー,ラッシュアワー,rush hour,Noun,JLPT2
+祝日,しゅくじつ,holiday/festival day,Noun,JLPT2
 涙,なみだ,tear,Noun,JLPT2
-スケート,,"skate, skates",Noun,JLPT2
-弁当,べんとう,"box lunch, picnic lunch",Noun,JLPT2
+スケート,スケート,skate/skates,Noun,JLPT2
+弁当,べんとう,box lunch/picnic lunch,Noun,JLPT2
 患者,かんじゃ,patient,Noun,JLPT2
-述べる,のべる,"state orally, expound, mention",Verb,JLPT2
+述べる,のべる,state orally/expound/mention,Verb,JLPT2
 訴える,うったえる,sue,Verb,JLPT2
-迷う,まよう,"be perplexed, hesitate, get lost",Verb,JLPT2
-迷惑,めいわく,"trouble, annoyance",Verbal Noun,JLPT2
-地域,ちいき,"region, area",Noun,JLPT2
-ピクニック,,picnic,Noun,JLPT2
-贈る,おくる,"offer, give",Verb,JLPT2
+迷う,まよう,be perplexed/hesitate/get lost,Verb,JLPT2
+迷惑,めいわく,trouble/annoyance,Verbal Noun,JLPT2
+地域,ちいき,region/area,Noun,JLPT2
+ピクニック,ピクニック,picnic,Noun,JLPT2
+贈る,おくる,offer/give,Verb,JLPT2
 与える,あたえる,give,Verb,JLPT2
-貯金,ちょきん,"savings, deposit",Verbal Noun,JLPT2
-預ける,あずける,"deposit, entrust",Verb,JLPT2
-預かる,あずかる,"receive on deposit, take charge of",Verb,JLPT2
-得意,とくい,"one's forte, pride, customer",Adjectival Noun,JLPT2
-どきどき,,"feel excited, feel nervous",Adverb,JLPT2
-燃える,もえる,"burn, undergo combustion",Verb,JLPT2
-まあまあ,,"OK, not bad, average",Adjective,JLPT2
+貯金,ちょきん,savings/deposit,Verbal Noun,JLPT2
+預ける,あずける,deposit/entrust,Verb,JLPT2
+預かる,あずかる,receive on deposit/take charge of,Verb,JLPT2
+得意,とくい,one's forte/pride/customer,Adjectival Noun,JLPT2
+どきどき,どきどき,feel excited/feel nervous,Adverb,JLPT2
+燃える,もえる,burn/undergo combustion,Verb,JLPT2
+まあまあ,まあまあ,OK/not bad/average,Adjective,JLPT2
 乾杯,かんぱい,a toast,Verbal Noun,JLPT2
 乾かす,かわかす,dry,Verb,JLPT2
-新幹線,しんかんせん,"Shinkansen, Bullet Train",Noun,JLPT2
-マフラー,,"scarf, muffler",Noun,JLPT2
-素晴らしい,すばらしい,"splendid, excellent",Adjective,JLPT2
-家庭,かてい,"home, family",Noun,JLPT2
-アクセサリー,,"accessories, jewelry",Noun,JLPT2
-桜,さくら,"cherry tree, cherry blossom",Noun,JLPT2
-あくび,,yawn,Verbal Noun,JLPT2
+新幹線,しんかんせん,Shinkansen/Bullet Train,Noun,JLPT2
+マフラー,マフラー,scarf/muffler,Noun,JLPT2
+素晴らしい,すばらしい,splendid/excellent,Adjective,JLPT2
+家庭,かてい,home/family,Noun,JLPT2
+アクセサリー,アクセサリー,accessories/jewelry,Noun,JLPT2
+桜,さくら,cherry tree/cherry blossom,Noun,JLPT2
+あくび,あくび,yawn,Verbal Noun,JLPT2
 屋根,やね,roof,Noun,JLPT2
 黒板,こくばん,blackboard,Noun,JLPT2
-普及,ふきゅう,"diffusion, spread",Verbal Noun,JLPT2
+普及,ふきゅう,diffusion/spread,Verbal Noun,JLPT2
 胃,い,stomach,Noun,JLPT2
-皿,さら,"plate, counter for plates or helpings",Noun,JLPT2
-こぼす,,spill,Verb,JLPT2
+皿,さら,plate/counter for plates or helpings,Noun,JLPT2
+こぼす,こぼす,spill,Verb,JLPT2
 内容,ないよう,contents,Noun,JLPT2
-骨,ほね,"bone, frame, spirit",Noun,JLPT2
-ランチ,,lunch,Noun,JLPT2
-滑る,すべる,"slide, slip, flunk an examination",Verb,JLPT2
-折る,おる,"break off, fold, bend",Verb,JLPT2
+骨,ほね,bone/frame/spirit,Noun,JLPT2
+ランチ,ランチ,lunch,Noun,JLPT2
+滑る,すべる,slide/slip/flunk an examination,Verb,JLPT2
+折る,おる,break off/fold/bend,Verb,JLPT2
 健康,けんこう,healthy,Adjectival Noun,JLPT2
-再び,ふたたび,"again, a second time",Adverb,JLPT2
-チョーク,,chalk,Noun,JLPT2
+再び,ふたたび,again/a second time,Adverb,JLPT2
+チョーク,チョーク,chalk,Noun,JLPT2
 再来月,さらいげつ,the month after next,Noun,JLPT2
 再来週,さらいしゅう,the week after next,Noun,JLPT2
-装置,そうち,"equipment, device",Noun,JLPT2
-仮名,かな,"kana, Japanese syllabary",Noun,JLPT2
+装置,そうち,equipment/device,Noun,JLPT2
+仮名,かな,kana/Japanese syllabary,Noun,JLPT2
 送り仮名,おくりがな,kana suffix,Noun,JLPT2
-悲しむ,かなしむ,"feel sad, lament",Verb,JLPT2
-ノック,,knock,Verbal Noun,JLPT2
-固い,かたい,"stiff, tight",Adjective,JLPT2
+悲しむ,かなしむ,feel sad/lament,Verb,JLPT2
+ノック,ノック,knock,Verbal Noun,JLPT2
+固い,かたい,stiff/tight,Adjective,JLPT2
 美人,びじん,beautiful woman,Noun,JLPT2
-よろしく,,"properly, one's regards",Adverb,JLPT2
+よろしく,よろしく,properly/one's regards,Adverb,JLPT2
 博物館,はくぶつかん,museum,Noun,JLPT2
-特徴,とくちょう,"distinctive feature, characteristic",Noun,JLPT2
-許す,ゆるす,"permit, license, forgive",Verb,JLPT2
-教師,きょうし,"teacher, instructor",Noun,JLPT2
+特徴,とくちょう,distinctive feature/characteristic,Noun,JLPT2
+許す,ゆるす,permit/license/forgive,Verb,JLPT2
+教師,きょうし,teacher/instructor,Noun,JLPT2
 教授,きょうじゅ,professor,Noun,JLPT2
-そっち,,"there, thou",Noun,JLPT2
+そっち,そっち,there/thou,Noun,JLPT2
 犬,いぬ,dog,Noun,JLPT2
 馬,うま,horse,Noun,JLPT2
-刺す,さす,"stab, prick, sting",Verb,JLPT2
-刺身,さしみ,"sashimi, sliced raw meat",Noun,JLPT2
-激しい,はげしい,"violent, intense",Adjective,JLPT2
-倒す,たおす,"bring down, overthrow, defeat",Verb,JLPT2
-傾向,けいこう,"tendency, disposition",Noun,JLPT2
-主張,しゅちょう,"insistence, assertion",Verbal Noun,JLPT2
-レインコート,,raincoat,Noun,JLPT2
-引っ張る,ひっぱる,"pull, drag",Verb,JLPT2
-突き当たる,つきあたる,"hit against, come to the end of",Verb,JLPT2
+刺す,さす,stab/prick/sting,Verb,JLPT2
+刺身,さしみ,sashimi/sliced raw meat,Noun,JLPT2
+激しい,はげしい,violent/intense,Adjective,JLPT2
+倒す,たおす,bring down/overthrow/defeat,Verb,JLPT2
+傾向,けいこう,tendency/disposition,Noun,JLPT2
+主張,しゅちょう,insistence/assertion,Verbal Noun,JLPT2
+レインコート,レインコート,raincoat,Noun,JLPT2
+引っ張る,ひっぱる,pull/drag,Verb,JLPT2
+突き当たる,つきあたる,hit against/come to the end of,Verb,JLPT2
 突き当たり,つきあたり,end of a street,Noun,JLPT2
-丸,まる,"circle or sphere, wholeness",Noun,JLPT2
-攻撃,こうげき,"attack, criticism",Verbal Noun,JLPT2
-大抵,たいてい,"generally, mostly",Adverb,JLPT2
-姿,すがた,"figure, appearance",Noun,JLPT2
-姿勢,しせい,"posture, attitude",Noun,JLPT2
-恐ろしい,おそろしい,"terrible, awful",Adjective,JLPT2
+丸,まる,circle or sphere/wholeness,Noun,JLPT2
+攻撃,こうげき,attack/criticism,Verbal Noun,JLPT2
+大抵,たいてい,generally/mostly,Adverb,JLPT2
+姿,すがた,figure/appearance,Noun,JLPT2
+姿勢,しせい,posture/attitude,Noun,JLPT2
+恐ろしい,おそろしい,terrible/awful,Adjective,JLPT2
 孫,まご,grandchild,Noun,JLPT2
-偉い,えらい,"great, famous, eminent",Adjective,JLPT2
-爪,つめ,"nail, claw",Noun,JLPT2
-方針,ほうしん,"course, policy",Noun,JLPT2
-鍵,かぎ,"key, lock",Noun,JLPT2
-鍋,なべ,"pan, saucepan",Noun,JLPT2
-あっち,,"other side, there",Noun,JLPT2
+偉い,えらい,great/famous/eminent,Adjective,JLPT2
+爪,つめ,nail/claw,Noun,JLPT2
+方針,ほうしん,course/policy,Noun,JLPT2
+鍵,かぎ,key/lock,Noun,JLPT2
+鍋,なべ,pan/saucepan,Noun,JLPT2
+あっち,あっち,other side/there,Noun,JLPT2
 濡れる,ぬれる,get wet,Verb,JLPT2
-あんなに,,"that, so",Adverb,JLPT2
-怠ける,なまける,"be lazy, neglect",Verb,JLPT2
-休憩,きゅうけい,"rest, repose",Verbal Noun,JLPT2
-いたずら,,"mischief, prank",Verbal Noun,JLPT2
-化粧,けしょう,"make up, put on makeup",Verbal Noun,JLPT2
-畑,はたけ,"field, vegetable garden",Noun,JLPT2
-炊く,たく,"cook, boil",Verb,JLPT2
+あんなに,あんなに,that/so,Adverb,JLPT2
+怠ける,なまける,be lazy/neglect,Verb,JLPT2
+休憩,きゅうけい,rest/repose,Verbal Noun,JLPT2
+いたずら,いたずら,mischief/prank,Verbal Noun,JLPT2
+化粧,けしょう,make up/put on makeup,Verbal Noun,JLPT2
+畑,はたけ,field/vegetable garden,Noun,JLPT2
+炊く,たく,cook/boil,Verb,JLPT2
 灰,はい,ashes,Noun,JLPT2
-灰色,はいいろ,"ash color, gray",Noun,JLPT2
-西暦,せいれき,"Christian Era, A.D.",Noun,JLPT2
-毛,け,"hair, wool",Noun,JLPT2
+灰色,はいいろ,ash color/gray,Noun,JLPT2
+西暦,せいれき,Christian Era (A.D.),Noun,JLPT2
+毛,け,hair/wool,Noun,JLPT2
 舌,した,tongue,Noun,JLPT2
+
+<---- got up to here - remove quotes, add / and add kana readings hehe -----> 
+
 臭い,くさい,"ill-smelling, stinking",Adjective,JLPT2
 匂い,におい,"smell, odor",Noun,JLPT2
 履く,はく,"put on footwear, wear",Verb,JLPT2
